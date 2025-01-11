@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/testblog/posts/2025-01-11_how-to-publish-hugo-site/</loc>
+    <loc>https://errolleesw.github.io/testblog/posts/2025-01-11_how-to-publish-hugo-site/</loc>
   </url><url>
-    <loc>http://localhost:1313/testblog/categories/</loc>
+    <loc>https://errolleesw.github.io/testblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/testblog/posts/</loc>
+    <loc>https://errolleesw.github.io/testblog/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/testblog/tags/</loc>
+    <loc>https://errolleesw.github.io/testblog/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/testblog/</loc>
+    <loc>https://errolleesw.github.io/testblog/</loc>
   </url>
 </urlset>

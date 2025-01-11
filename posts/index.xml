@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>http://localhost:1313/testblog/posts/</link>
+    <link>https://errolleesw.github.io/testblog/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/testblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://errolleesw.github.io/testblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/testblog/posts/2025-01-11_how-to-publish-hugo-site/</link>
+      <link>https://errolleesw.github.io/testblog/posts/2025-01-11_how-to-publish-hugo-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/testblog/posts/2025-01-11_how-to-publish-hugo-site/</guid>
+      <guid>https://errolleesw.github.io/testblog/posts/2025-01-11_how-to-publish-hugo-site/</guid>
       <description>&lt;h1 id=&#34;how-to-publish-a-hugo-site-on-github-pages&#34;&gt;How to Publish a Hugo Site on GitHub Pages&lt;/h1&gt;
 &lt;p&gt;Publishing a Hugo site on GitHub Pages is a straightforward process. Follow these steps to get your site up and running.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
